@@ -1,3 +1,3 @@
 # Bidii-Webframe
 
-This is the WP Theme for teambidii.co.ke
+This is the Wordpress Theme Framework for teambidii.co.ke
